@@ -1,6 +1,6 @@
 # 🔁 Day 71 – GFG 160 Days DSA Challenge
 ### 🔍 Problem: Detect Loop in Linked List
-### 📌 Level: Easy
+### 📌 Level: Hard
 ### 🏁 Status: ✅ Problem Solved Successfully
 
 ## 📘 Problem Summary:
